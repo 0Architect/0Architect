@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Anthony Ayeke, currently working as an intern at Wootlab Innovation. I am a Front-end developer and love learning and finding out new things.
 
 ## 🔭 I’m currently working on
 Uploading my solutions to the acccelerated C++ textbook exercises, I finished a while back.
@@ -20,5 +21,3 @@ Algorithms, data structures, Deep learn tech annnnd Front-End web stuff. Simulta
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=0Architect&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0Architect&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=0Architect.0Architect)
